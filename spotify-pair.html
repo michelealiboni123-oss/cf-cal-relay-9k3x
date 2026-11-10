@@ -1,0 +1,86 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CleanFrame Spotify Pairing</title>
+<style>
+  body { font-family: -apple-system, system-ui, sans-serif; background: #0d0d0d; color: #f6f1e7; max-width: 560px; margin: 60px auto; padding: 0 24px; line-height: 1.5; }
+  h1 { font-size: 22px; }
+  button { background: #1db954; color: #000; border: none; padding: 14px 24px; border-radius: 999px; font-size: 16px; font-weight: 700; cursor: pointer; }
+  textarea { width: 100%; height: 90px; margin-top: 16px; font-family: monospace; font-size: 13px; padding: 10px; border-radius: 8px; border: 1px solid #444; background: #1a1a1a; color: #f6f1e7; }
+  .error { color: #ff6b6b; }
+  .muted { opacity: .7; font-size: 14px; }
+</style>
+</head>
+<body>
+<div id="app"><p>Loading…</p></div>
+<script>
+var CLIENT_ID = '92040037e8b743ad87adfbfc315f057c';
+var REDIRECT_URI = 'https://michelealiboni123-oss.github.io/cf-cal-relay-9k3x/spotify-pair.html';
+var SCOPE = 'user-read-currently-playing user-read-playback-state';
+
+function base64url(buffer) {
+  var bytes = new Uint8Array(buffer), str = '';
+  for (var i = 0; i < bytes.length; i++) str += String.fromCharCode(bytes[i]);
+  return btoa(str).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+}
+function randomVerifier() {
+  var bytes = new Uint8Array(64);
+  crypto.getRandomValues(bytes);
+  return base64url(bytes.buffer);
+}
+async function challengeFor(verifier) {
+  var data = new TextEncoder().encode(verifier);
+  var digest = await crypto.subtle.digest('SHA-256', data);
+  return base64url(digest);
+}
+function render(html) { document.getElementById('app').innerHTML = html; }
+
+async function start() {
+  var params = new URLSearchParams(location.search);
+  var code = params.get('code');
+  var error = params.get('error');
+  var app = document.getElementById('app');
+
+  if (error) { render('<h1>CleanFrame Spotify Pairing</h1><p class="error">Spotify denied access: ' + error + '</p>'); return; }
+
+  if (!code) {
+    render('<h1>CleanFrame Spotify Pairing</h1><p>This connects your Spotify account to the CleanFrame TV widget, so it can show what\'s currently playing.</p><button id="go">Connect Spotify</button>');
+    document.getElementById('go').onclick = async function () {
+      var verifier = randomVerifier();
+      sessionStorage.setItem('cf_verifier', verifier);
+      var challenge = await challengeFor(verifier);
+      var url = 'https://accounts.spotify.com/authorize?' + new URLSearchParams({
+        client_id: CLIENT_ID, response_type: 'code', redirect_uri: REDIRECT_URI,
+        code_challenge_method: 'S256', code_challenge: challenge, scope: SCOPE
+      }).toString();
+      location.href = url;
+    };
+    return;
+  }
+
+  var verifier = sessionStorage.getItem('cf_verifier');
+  if (!verifier) { render('<h1>CleanFrame Spotify Pairing</h1><p class="error">Lost the pairing session (did you open this in a new tab?). Go back and start again.</p>'); return; }
+
+  render('<h1>CleanFrame Spotify Pairing</h1><p>Finishing up…</p>');
+  try {
+    var response = await fetch('https://accounts.spotify.com/api/token', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: new URLSearchParams({
+        grant_type: 'authorization_code', code: code, redirect_uri: REDIRECT_URI,
+        client_id: CLIENT_ID, code_verifier: verifier
+      }).toString()
+    });
+    var body = await response.json();
+    if (!response.ok) { render('<h1>CleanFrame Spotify Pairing</h1><p class="error">Token exchange failed: ' + (body.error_description || body.error || response.status) + '</p>'); return; }
+    render('<h1>Connected</h1><p>Copy this and paste it back to Claude in your chat, then you can close this page:</p><textarea readonly onclick="this.select()">' + body.refresh_token + '</textarea><p class="muted">This token only lets the widget read what\'s currently playing — nothing else.</p>');
+  } catch (err) {
+    render('<h1>CleanFrame Spotify Pairing</h1><p class="error">Something went wrong: ' + err.message + '</p>');
+  }
+}
+start();
+</script>
+</body>
+</html>
