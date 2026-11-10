@@ -1,4 +1,4 @@
-name: Update next event
+name: Update events
 on:
   schedule:
     - cron: '*/15 * * * *'
@@ -14,13 +14,13 @@ jobs:
         with:
           node-version: 22
       - run: npm install
-      - run: node fetch-next-event.mjs
+      - run: node fetch-events.mjs
         env:
           ICLOUD_EMAIL: ${{ secrets.ICLOUD_EMAIL }}
           ICLOUD_APP_PASSWORD: ${{ secrets.ICLOUD_APP_PASSWORD }}
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add next-event.json
-          git diff --staged --quiet || git commit -m "Update next event"
+          git add events.json
+          git diff --staged --quiet || git commit -m "Update events"
           git push

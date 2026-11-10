@@ -1,0 +1,110 @@
+{
+  "events": [
+    {
+      "summary": "Anni and Fede in India",
+      "location": null,
+      "allDay": true,
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-16"
+    },
+    {
+      "summary": "Bella + Alex (confirmed)",
+      "location": "BART Quad",
+      "allDay": false,
+      "start": "2026-11-10T23:30:00.000Z",
+      "end": "2026-11-11T00:30:00.000Z"
+    },
+    {
+      "summary": "Alex (if possible)",
+      "location": null,
+      "allDay": false,
+      "start": "2026-11-11T21:00:00.000Z",
+      "end": "2026-11-11T22:00:00.000Z"
+    },
+    {
+      "summary": "Calculus I: Lecture",
+      "location": "Ryerson Phys Lab 176 - 176",
+      "allDay": false,
+      "start": "2026-11-12T15:30:00.000Z",
+      "end": "2026-11-12T16:50:00.000Z"
+    },
+    {
+      "summary": "SimonEllisMaths <> Michele Aliboni",
+      "location": null,
+      "allDay": false,
+      "start": "2026-11-12T19:00:00.000Z",
+      "end": "2026-11-12T20:00:00.000Z"
+    },
+    {
+      "summary": "Media Aesthetics: Image, Text, Sound I: Seminar",
+      "location": "Campus North Res Commons 158 - 158",
+      "allDay": false,
+      "start": "2026-11-12T20:00:00.000Z",
+      "end": "2026-11-12T21:20:00.000Z"
+    },
+    {
+      "summary": "SimonEllisMaths <> Michele Aliboni",
+      "location": null,
+      "allDay": false,
+      "start": "2026-11-12T20:30:00.000Z",
+      "end": "2026-11-12T21:30:00.000Z"
+    },
+    {
+      "summary": "Introduction to World Music: Lecture",
+      "location": "Goodspeed Hall 402 - 402",
+      "allDay": false,
+      "start": "2026-11-12T23:00:00.000Z",
+      "end": "2026-11-13T00:20:00.000Z"
+    },
+    {
+      "summary": "Ella (Kent)",
+      "location": null,
+      "allDay": false,
+      "start": "2026-11-13T15:20:00.000Z",
+      "end": "2026-11-13T16:20:00.000Z"
+    },
+    {
+      "summary": "Bella (Cobb)",
+      "location": null,
+      "allDay": false,
+      "start": "2026-11-13T17:20:00.000Z",
+      "end": "2026-11-13T18:20:00.000Z"
+    },
+    {
+      "summary": "PIR ERM Pod Weekly Meeting",
+      "location": null,
+      "allDay": false,
+      "start": "2026-11-13T20:00:00.000Z",
+      "end": "2026-11-13T21:00:00.000Z"
+    },
+    {
+      "summary": "Shayna & Alex's Wedding",
+      "location": "Udaipur",
+      "allDay": true,
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-15"
+    },
+    {
+      "summary": "Saturday 10-11 Group (Jacob, Oliver, Ben)",
+      "location": null,
+      "allDay": false,
+      "start": "2026-11-14T16:00:00.000Z",
+      "end": "2026-11-14T17:00:00.000Z"
+    },
+    {
+      "summary": "Winter 2027 Pre-registration Period",
+      "location": null,
+      "allDay": true,
+      "startDate": "2026-11-16",
+      "endDate": "2026-11-20"
+    },
+    {
+      "summary": "SimonEllisMaths <> Michele Aliboni",
+      "location": null,
+      "allDay": false,
+      "start": "2026-11-16T18:45:00.000Z",
+      "end": "2026-11-16T19:45:00.000Z"
+    }
+  ],
+  "updatedAt": "2026-11-10T22:53:28.419Z"
+}
