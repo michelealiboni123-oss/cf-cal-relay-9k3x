@@ -25,8 +25,22 @@
       "summary": "Calculus I: Lecture",
       "location": "Ryerson Phys Lab 176 - 176",
       "allDay": false,
-      "start": "2026-11-12T15:30:00.000Z",
-      "end": "2026-11-12T16:50:00.000Z"
+      "start": "2026-11-12T09:30:00.000Z",
+      "end": "2026-11-12T10:50:00.000Z"
+    },
+    {
+      "summary": "Media Aesthetics: Image, Text, Sound I: Seminar",
+      "location": "Campus North Res Commons 158 - 158",
+      "allDay": false,
+      "start": "2026-11-12T14:00:00.000Z",
+      "end": "2026-11-12T15:20:00.000Z"
+    },
+    {
+      "summary": "Introduction to World Music: Lecture",
+      "location": "Goodspeed Hall 402 - 402",
+      "allDay": false,
+      "start": "2026-11-12T17:00:00.000Z",
+      "end": "2026-11-12T18:20:00.000Z"
     },
     {
       "summary": "SimonEllisMaths <> Michele Aliboni",
@@ -36,25 +50,11 @@
       "end": "2026-11-12T20:00:00.000Z"
     },
     {
-      "summary": "Media Aesthetics: Image, Text, Sound I: Seminar",
-      "location": "Campus North Res Commons 158 - 158",
-      "allDay": false,
-      "start": "2026-11-12T20:00:00.000Z",
-      "end": "2026-11-12T21:20:00.000Z"
-    },
-    {
       "summary": "SimonEllisMaths <> Michele Aliboni",
       "location": null,
       "allDay": false,
       "start": "2026-11-12T20:30:00.000Z",
       "end": "2026-11-12T21:30:00.000Z"
-    },
-    {
-      "summary": "Introduction to World Music: Lecture",
-      "location": "Goodspeed Hall 402 - 402",
-      "allDay": false,
-      "start": "2026-11-12T23:00:00.000Z",
-      "end": "2026-11-13T00:20:00.000Z"
     },
     {
       "summary": "Ella (Kent)",
@@ -106,5 +106,5 @@
       "end": "2026-11-16T19:45:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-10T22:53:28.419Z"
+  "updatedAt": "2026-11-10T23:27:59.839Z"
 }
