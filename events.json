@@ -8,13 +8,6 @@
       "endDate": "2026-11-16"
     },
     {
-      "summary": "Alex (if possible)",
-      "location": null,
-      "allDay": false,
-      "start": "2026-11-11T21:00:00.000Z",
-      "end": "2026-11-11T22:00:00.000Z"
-    },
-    {
       "summary": "Calculus I: Lecture",
       "location": "Ryerson Phys Lab 176 - 176",
       "allDay": false,
@@ -118,7 +111,14 @@
       "allDay": false,
       "start": "2026-11-17T17:00:00.000Z",
       "end": "2026-11-17T18:20:00.000Z"
+    },
+    {
+      "summary": "Career Advancement Trek Mandatory Virtual Orientation (Zoom link to follow)",
+      "location": null,
+      "allDay": false,
+      "start": "2026-11-17T22:00:00.000Z",
+      "end": "2026-11-17T23:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-11T21:25:43.315Z"
+  "updatedAt": "2026-11-11T22:26:25.123Z"
 }
