@@ -104,7 +104,14 @@
       "allDay": false,
       "start": "2026-11-17T09:30:00.000Z",
       "end": "2026-11-17T10:50:00.000Z"
+    },
+    {
+      "summary": "Media Aesthetics: Image, Text, Sound I: Seminar",
+      "location": "Campus North Res Commons 158 - 158",
+      "allDay": false,
+      "start": "2026-11-17T14:00:00.000Z",
+      "end": "2026-11-17T15:20:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-11T12:53:12.074Z"
+  "updatedAt": "2026-11-11T14:07:42.497Z"
 }
