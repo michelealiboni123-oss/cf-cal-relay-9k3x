@@ -111,7 +111,14 @@
       "allDay": false,
       "start": "2026-11-17T14:00:00.000Z",
       "end": "2026-11-17T15:20:00.000Z"
+    },
+    {
+      "summary": "Introduction to World Music: Lecture",
+      "location": "Goodspeed Hall 402 - 402",
+      "allDay": false,
+      "start": "2026-11-17T17:00:00.000Z",
+      "end": "2026-11-17T18:20:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-11T16:47:06.097Z"
+  "updatedAt": "2026-11-11T17:49:19.526Z"
 }
