@@ -8,13 +8,6 @@
       "endDate": "2026-11-16"
     },
     {
-      "summary": "Bella + Alex (confirmed)",
-      "location": "BART Quad",
-      "allDay": false,
-      "start": "2026-11-10T23:30:00.000Z",
-      "end": "2026-11-11T00:30:00.000Z"
-    },
-    {
       "summary": "Alex (if possible)",
       "location": null,
       "allDay": false,
@@ -106,5 +99,5 @@
       "end": "2026-11-16T19:45:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-10T23:27:59.839Z"
+  "updatedAt": "2026-11-11T01:16:02.409Z"
 }
