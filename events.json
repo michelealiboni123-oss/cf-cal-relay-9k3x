@@ -22,13 +22,6 @@
       "end": "2026-11-12T15:20:00.000Z"
     },
     {
-      "summary": "Introduction to World Music: Lecture",
-      "location": "Goodspeed Hall 402 - 402",
-      "allDay": false,
-      "start": "2026-11-12T17:00:00.000Z",
-      "end": "2026-11-12T18:20:00.000Z"
-    },
-    {
       "summary": "SimonEllisMaths <> Michele Aliboni",
       "location": null,
       "allDay": false,
@@ -41,6 +34,13 @@
       "allDay": false,
       "start": "2026-11-12T20:30:00.000Z",
       "end": "2026-11-12T21:30:00.000Z"
+    },
+    {
+      "summary": "Triple Date",
+      "location": "Meet Reg, go to small cheval",
+      "allDay": false,
+      "start": "2026-11-13T00:00:00.000Z",
+      "end": "2026-11-13T01:15:00.000Z"
     },
     {
       "summary": "Ella (Kent)",
@@ -120,5 +120,5 @@
       "end": "2026-11-17T23:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-11T22:26:25.123Z"
+  "updatedAt": "2026-11-11T23:20:24.242Z"
 }
