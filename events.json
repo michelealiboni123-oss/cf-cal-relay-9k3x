@@ -8,13 +8,6 @@
       "endDate": "2026-11-16"
     },
     {
-      "summary": "SimonEllisMaths <> Michele Aliboni",
-      "location": null,
-      "allDay": false,
-      "start": "2026-11-12T20:30:00.000Z",
-      "end": "2026-11-12T21:30:00.000Z"
-    },
-    {
       "summary": "Triple Date",
       "location": "Meet Reg, go to small cheval",
       "allDay": false,
@@ -106,5 +99,5 @@
       "end": "2026-11-17T23:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-12T20:29:59.196Z"
+  "updatedAt": "2026-11-12T21:22:38.884Z"
 }
