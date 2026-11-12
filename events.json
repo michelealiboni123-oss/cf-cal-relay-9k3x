@@ -8,13 +8,6 @@
       "endDate": "2026-11-16"
     },
     {
-      "summary": "Media Aesthetics: Image, Text, Sound I: Seminar",
-      "location": "Campus North Res Commons 158 - 158",
-      "allDay": false,
-      "start": "2026-11-12T14:00:00.000Z",
-      "end": "2026-11-12T15:20:00.000Z"
-    },
-    {
       "summary": "SimonEllisMaths <> Michele Aliboni",
       "location": null,
       "allDay": false,
@@ -113,5 +106,5 @@
       "end": "2026-11-17T23:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-12T14:39:09.937Z"
+  "updatedAt": "2026-11-12T15:38:41.804Z"
 }
