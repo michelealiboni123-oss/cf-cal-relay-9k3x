@@ -36,6 +36,13 @@
       "end": "2026-11-13T16:20:00.000Z"
     },
     {
+      "summary": "First-Year Group Advising - Appointment with Johnny Glennan - FIRST YEAR GROUP ADVISING",
+      "location": "(Virtual) - https://uchicago.zoom.us/my/jglennan?pwd=bFdLMFg1YWJOYUN2eWNXMEttaHgvQT09",
+      "allDay": false,
+      "start": "2026-11-13T16:30:00.000Z",
+      "end": "2026-11-13T17:45:00.000Z"
+    },
+    {
       "summary": "Bella (Cobb)",
       "location": null,
       "allDay": false,
@@ -106,5 +113,5 @@
       "end": "2026-11-17T23:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-12T16:42:45.236Z"
+  "updatedAt": "2026-11-12T17:37:02.231Z"
 }
