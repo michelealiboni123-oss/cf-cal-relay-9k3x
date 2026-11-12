@@ -8,13 +8,6 @@
       "endDate": "2026-11-16"
     },
     {
-      "summary": "Calculus I: Lecture",
-      "location": "Ryerson Phys Lab 176 - 176",
-      "allDay": false,
-      "start": "2026-11-12T09:30:00.000Z",
-      "end": "2026-11-12T10:50:00.000Z"
-    },
-    {
       "summary": "Media Aesthetics: Image, Text, Sound I: Seminar",
       "location": "Campus North Res Commons 158 - 158",
       "allDay": false,
@@ -120,5 +113,5 @@
       "end": "2026-11-17T23:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-12T10:15:21.775Z"
+  "updatedAt": "2026-11-12T11:25:21.314Z"
 }
