@@ -8,13 +8,6 @@
       "endDate": "2026-11-16"
     },
     {
-      "summary": "Triple Date",
-      "location": "Meet Reg, go to small cheval",
-      "allDay": false,
-      "start": "2026-11-13T00:00:00.000Z",
-      "end": "2026-11-13T01:15:00.000Z"
-    },
-    {
       "summary": "Ella (Kent)",
       "location": null,
       "allDay": false,
@@ -99,5 +92,5 @@
       "end": "2026-11-17T23:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-13T00:50:15.801Z"
+  "updatedAt": "2026-11-13T01:58:27.134Z"
 }
