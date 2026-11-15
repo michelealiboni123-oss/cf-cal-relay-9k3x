@@ -139,7 +139,14 @@
       "allDay": true,
       "startDate": "2026-11-21",
       "endDate": "2026-11-29"
+    },
+    {
+      "summary": "PROSPA presents Prophecy",
+      "location": "Radius",
+      "allDay": false,
+      "start": "2026-11-21T04:00:00.000Z",
+      "end": "2026-11-21T09:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-15T03:16:08.742Z"
+  "updatedAt": "2026-11-15T04:24:19.933Z"
 }
