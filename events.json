@@ -153,7 +153,14 @@
       "allDay": false,
       "start": "2026-11-21T16:00:00.000Z",
       "end": "2026-11-21T17:00:00.000Z"
+    },
+    {
+      "summary": "United Airlines Flight UA 920 ORD to LHR at 17:45 PM - 7:55 AM (local time)",
+      "location": " Departing Chicago",
+      "allDay": false,
+      "start": "2026-11-21T23:45:00.000Z",
+      "end": "2026-11-22T07:55:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-15T23:13:35.987Z"
+  "updatedAt": "2026-11-15T23:57:52.307Z"
 }
