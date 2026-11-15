@@ -118,7 +118,28 @@
       "allDay": false,
       "start": "2026-11-20T20:00:00.000Z",
       "end": "2026-11-20T21:00:00.000Z"
+    },
+    {
+      "summary": "Shooting at Hoyle Farm with Pitt",
+      "location": null,
+      "allDay": true,
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21"
+    },
+    {
+      "summary": "Exeat weekend Save and Filo",
+      "location": null,
+      "allDay": true,
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-23"
+    },
+    {
+      "summary": "Thanksgiving UChicago",
+      "location": null,
+      "allDay": true,
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-29"
     }
   ],
-  "updatedAt": "2026-11-14T23:28:11.057Z"
+  "updatedAt": "2026-11-15T00:05:55.532Z"
 }
