@@ -8,13 +8,6 @@
       "endDate": "2026-11-16"
     },
     {
-      "summary": "Shayna & Alex's Wedding",
-      "location": "Udaipur",
-      "allDay": true,
-      "startDate": "2026-11-14",
-      "endDate": "2026-11-15"
-    },
-    {
       "summary": "Winter 2027 Pre-registration Period",
       "location": null,
       "allDay": true,
@@ -162,5 +155,5 @@
       "end": "2026-11-22T07:55:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-15T23:57:52.307Z"
+  "updatedAt": "2026-11-16T01:15:03.319Z"
 }
