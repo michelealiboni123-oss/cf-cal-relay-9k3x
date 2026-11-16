@@ -29,11 +29,11 @@
       "end": "2026-11-17T02:30:00.000Z"
     },
     {
-      "summary": "BFT Defense: Financials",
-      "location": "Reg 401",
+      "summary": "Jallison at house",
+      "location": null,
       "allDay": false,
-      "start": "2026-11-17T02:30:00.000Z",
-      "end": "2026-11-17T03:30:00.000Z"
+      "start": "2026-11-17T02:45:00.000Z",
+      "end": "2026-11-17T03:45:00.000Z"
     },
     {
       "summary": "Calculus I: Lecture",
@@ -155,5 +155,5 @@
       "end": "2026-11-22T07:55:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-16T03:37:06.413Z"
+  "updatedAt": "2026-11-16T05:07:04.590Z"
 }
