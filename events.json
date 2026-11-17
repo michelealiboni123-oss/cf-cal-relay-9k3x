@@ -8,13 +8,6 @@
       "endDate": "2026-11-20"
     },
     {
-      "summary": "Media Aesthetics: Image, Text, Sound I: Seminar",
-      "location": "Campus North Res Commons 158 - 158",
-      "allDay": false,
-      "start": "2026-11-17T14:00:00.000Z",
-      "end": "2026-11-17T15:20:00.000Z"
-    },
-    {
       "summary": "Introduction to World Music: Lecture",
       "location": "Goodspeed Hall 402 - 402",
       "allDay": false,
@@ -134,5 +127,5 @@
       "endDate": "2026-11-27"
     }
   ],
-  "updatedAt": "2026-11-17T14:40:36.305Z"
+  "updatedAt": "2026-11-17T15:34:58.453Z"
 }
