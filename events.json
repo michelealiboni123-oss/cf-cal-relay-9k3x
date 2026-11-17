@@ -8,13 +8,6 @@
       "endDate": "2026-11-20"
     },
     {
-      "summary": "Jallison at house",
-      "location": null,
-      "allDay": false,
-      "start": "2026-11-17T02:45:00.000Z",
-      "end": "2026-11-17T03:45:00.000Z"
-    },
-    {
       "summary": "Calculus I: Lecture",
       "location": "Ryerson Phys Lab 176 - 176",
       "allDay": false,
@@ -148,5 +141,5 @@
       "endDate": "2026-11-27"
     }
   ],
-  "updatedAt": "2026-11-17T03:32:02.377Z"
+  "updatedAt": "2026-11-17T04:40:07.921Z"
 }
