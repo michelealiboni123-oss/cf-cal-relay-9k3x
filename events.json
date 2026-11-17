@@ -1,13 +1,6 @@
 {
   "events": [
     {
-      "summary": "Anni and Fede in India",
-      "location": null,
-      "allDay": true,
-      "startDate": "2026-11-07",
-      "endDate": "2026-11-16"
-    },
-    {
       "summary": "Winter 2027 Pre-registration Period",
       "location": null,
       "allDay": true,
@@ -153,7 +146,14 @@
       "allDay": false,
       "start": "2026-11-22T16:30:00.000Z",
       "end": "2026-11-22T17:30:00.000Z"
+    },
+    {
+      "summary": "Thanksgiving Break",
+      "location": null,
+      "allDay": true,
+      "startDate": "2026-11-23",
+      "endDate": "2026-11-27"
     }
   ],
-  "updatedAt": "2026-11-16T23:16:57.444Z"
+  "updatedAt": "2026-11-17T00:10:27.676Z"
 }
