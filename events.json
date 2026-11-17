@@ -125,7 +125,14 @@
       "allDay": true,
       "startDate": "2026-11-23",
       "endDate": "2026-11-27"
+    },
+    {
+      "summary": "Yellow fever vaccine appointment for all - Guy Staight",
+      "location": null,
+      "allDay": false,
+      "start": "2026-11-23T16:00:00.000Z",
+      "end": "2026-11-23T17:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-17T15:34:58.453Z"
+  "updatedAt": "2026-11-17T16:43:04.388Z"
 }
