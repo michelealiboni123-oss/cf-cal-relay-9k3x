@@ -125,7 +125,14 @@
       "allDay": false,
       "start": "2026-11-23T16:00:00.000Z",
       "end": "2026-11-23T17:00:00.000Z"
+    },
+    {
+      "summary": "SimonEllisMaths <> Michele Aliboni",
+      "location": null,
+      "allDay": false,
+      "start": "2026-11-23T18:45:00.000Z",
+      "end": "2026-11-23T19:45:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-17T18:38:11.906Z"
+  "updatedAt": "2026-11-17T20:46:19.575Z"
 }
