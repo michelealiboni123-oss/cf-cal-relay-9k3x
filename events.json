@@ -8,13 +8,6 @@
       "endDate": "2026-11-20"
     },
     {
-      "summary": "BFT Defense: Healthcare",
-      "location": "Reg 401",
-      "allDay": false,
-      "start": "2026-11-17T01:30:00.000Z",
-      "end": "2026-11-17T02:30:00.000Z"
-    },
-    {
       "summary": "Jallison at house",
       "location": null,
       "allDay": false,
@@ -155,5 +148,5 @@
       "endDate": "2026-11-27"
     }
   ],
-  "updatedAt": "2026-11-17T01:24:26.656Z"
+  "updatedAt": "2026-11-17T02:30:18.659Z"
 }
