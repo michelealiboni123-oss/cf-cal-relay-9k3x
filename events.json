@@ -8,13 +8,6 @@
       "endDate": "2026-11-20"
     },
     {
-      "summary": "SimonEllisMaths <> Michele Aliboni",
-      "location": null,
-      "allDay": false,
-      "start": "2026-11-19T20:30:00.000Z",
-      "end": "2026-11-19T21:30:00.000Z"
-    },
-    {
       "summary": "PIR ERM Pod Weekly Meeting",
       "location": null,
       "allDay": false,
@@ -99,5 +92,5 @@
       "endDate": "2026-11-25"
     }
   ],
-  "updatedAt": "2026-11-19T19:31:41.808Z"
+  "updatedAt": "2026-11-19T20:34:11.567Z"
 }
