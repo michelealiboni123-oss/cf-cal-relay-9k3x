@@ -118,7 +118,14 @@
       "allDay": false,
       "start": "2026-11-23T18:45:00.000Z",
       "end": "2026-11-23T19:45:00.000Z"
+    },
+    {
+      "summary": "Bruce Bennet ",
+      "location": "Shakenhurst Hall\nKidderminster DY14 9AR, England",
+      "allDay": true,
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-25"
     }
   ],
-  "updatedAt": "2026-11-18T23:32:31.651Z"
+  "updatedAt": "2026-11-19T00:35:32.145Z"
 }
