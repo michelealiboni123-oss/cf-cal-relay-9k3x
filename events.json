@@ -90,7 +90,14 @@
       "allDay": true,
       "startDate": "2026-11-25",
       "endDate": "2026-11-25"
+    },
+    {
+      "summary": "Ed Peel",
+      "location": "Garston\nWatford, England",
+      "allDay": false,
+      "start": "2026-11-26T18:00:00.000Z",
+      "end": "2026-11-27T16:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-20T17:08:33.367Z"
+  "updatedAt": "2026-11-20T18:06:38.793Z"
 }
