@@ -43,13 +43,6 @@
       "end": "2026-11-21T17:00:00.000Z"
     },
     {
-      "summary": "United Airlines Flight UA 920 ORD to LHR at 17:45 PM - 7:55 AM (local time)",
-      "location": " Departing Chicago",
-      "allDay": false,
-      "start": "2026-11-21T23:45:00.000Z",
-      "end": "2026-11-22T07:55:00.000Z"
-    },
-    {
       "summary": "(#442812) - Indoor Singles",
       "location": "The Queen's Club Ltd - LT Indoor 06",
       "allDay": false,
@@ -106,5 +99,5 @@
       "end": "2026-11-26T21:30:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-20T22:44:17.723Z"
+  "updatedAt": "2026-11-20T23:29:35.597Z"
 }
