@@ -76,7 +76,14 @@
       "allDay": false,
       "start": "2026-11-26T20:30:00.000Z",
       "end": "2026-11-26T21:30:00.000Z"
+    },
+    {
+      "summary": "PIR ERM Pod Weekly Meeting",
+      "location": null,
+      "allDay": false,
+      "start": "2026-11-27T20:00:00.000Z",
+      "end": "2026-11-27T21:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-21T19:45:33.809Z"
+  "updatedAt": "2026-11-21T20:33:38.821Z"
 }
