@@ -22,13 +22,6 @@
       "endDate": "2026-11-29"
     },
     {
-      "summary": "Saturday 10-11 Group (Jacob, Oliver, Ben)",
-      "location": null,
-      "allDay": false,
-      "start": "2026-11-21T16:00:00.000Z",
-      "end": "2026-11-21T17:00:00.000Z"
-    },
-    {
       "summary": "(#442812) - Indoor Singles",
       "location": "The Queen's Club Ltd - LT Indoor 06",
       "allDay": false,
@@ -85,5 +78,5 @@
       "end": "2026-11-26T21:30:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-21T15:44:28.449Z"
+  "updatedAt": "2026-11-21T16:28:03.297Z"
 }
