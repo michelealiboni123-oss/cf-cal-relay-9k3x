@@ -1,13 +1,6 @@
 {
   "events": [
     {
-      "summary": "Winter 2027 Pre-registration Period",
-      "location": null,
-      "allDay": true,
-      "startDate": "2026-11-16",
-      "endDate": "2026-11-20"
-    },
-    {
       "summary": "Shooting at Hoyle Farm with Pitt",
       "location": null,
       "allDay": true,
@@ -99,5 +92,5 @@
       "end": "2026-11-26T21:30:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-20T23:29:35.597Z"
+  "updatedAt": "2026-11-21T00:20:48.530Z"
 }
