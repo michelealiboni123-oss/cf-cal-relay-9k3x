@@ -90,7 +90,14 @@
       "allDay": false,
       "start": "2026-11-28T16:00:00.000Z",
       "end": "2026-11-28T17:00:00.000Z"
+    },
+    {
+      "summary": "Thanksgiving dinner at Sevaux",
+      "location": null,
+      "allDay": false,
+      "start": "2026-11-28T18:30:00.000Z",
+      "end": "2026-11-28T21:30:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-22T18:07:46.005Z"
+  "updatedAt": "2026-11-22T18:58:54.231Z"
 }
