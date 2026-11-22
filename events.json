@@ -15,13 +15,6 @@
       "endDate": "2026-11-29"
     },
     {
-      "summary": "(#442812) - Indoor Singles",
-      "location": "The Queen's Club Ltd - LT Indoor 06",
-      "allDay": false,
-      "start": "2026-11-22T16:30:00.000Z",
-      "end": "2026-11-22T17:30:00.000Z"
-    },
-    {
       "summary": "Thanksgiving Break",
       "location": null,
       "allDay": true,
@@ -99,5 +92,5 @@
       "end": "2026-11-28T17:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-22T17:16:11.601Z"
+  "updatedAt": "2026-11-22T18:07:46.005Z"
 }
