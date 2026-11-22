@@ -90,7 +90,14 @@
       "allDay": true,
       "startDate": "2026-11-28",
       "endDate": "2026-11-28"
+    },
+    {
+      "summary": "Saturday 10-11 Group (Jacob, Oliver, Ben)",
+      "location": null,
+      "allDay": false,
+      "start": "2026-11-28T16:00:00.000Z",
+      "end": "2026-11-28T17:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-22T15:41:09.101Z"
+  "updatedAt": "2026-11-22T16:27:43.478Z"
 }
