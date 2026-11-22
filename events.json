@@ -1,13 +1,6 @@
 {
   "events": [
     {
-      "summary": "Shooting at Hoyle Farm with Pitt",
-      "location": null,
-      "allDay": true,
-      "startDate": "2026-11-21",
-      "endDate": "2026-11-21"
-    },
-    {
       "summary": "Exeat weekend Save and Filo",
       "location": null,
       "allDay": true,
@@ -83,7 +76,21 @@
       "allDay": false,
       "start": "2026-11-27T20:00:00.000Z",
       "end": "2026-11-27T21:00:00.000Z"
+    },
+    {
+      "summary": "Tommy Allison shoot ",
+      "location": null,
+      "allDay": true,
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-28"
+    },
+    {
+      "summary": "Exeat Save and Filo",
+      "location": null,
+      "allDay": true,
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-28"
     }
   ],
-  "updatedAt": "2026-11-21T23:29:46.386Z"
+  "updatedAt": "2026-11-22T00:11:35.620Z"
 }
