@@ -22,13 +22,6 @@
       "endDate": "2026-11-27"
     },
     {
-      "summary": "SimonEllisMaths <> Michele Aliboni",
-      "location": null,
-      "allDay": false,
-      "start": "2026-11-23T18:45:00.000Z",
-      "end": "2026-11-23T19:45:00.000Z"
-    },
-    {
       "summary": "Bruce Bennet ",
       "location": "Shakenhurst Hall\nKidderminster DY14 9AR, England",
       "allDay": true,
@@ -99,5 +92,5 @@
       "end": "2026-11-29T22:55:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-23T18:22:07.341Z"
+  "updatedAt": "2026-11-23T19:29:45.123Z"
 }
