@@ -97,7 +97,14 @@
       "allDay": false,
       "start": "2026-11-28T18:30:00.000Z",
       "end": "2026-11-28T21:30:00.000Z"
+    },
+    {
+      "summary": "United Airlines Flight UA 928 LHR to ORD at 13:35 PM - 16:55 PM (local time)",
+      "location": " Departing London",
+      "allDay": false,
+      "start": "2026-11-29T13:35:00.000Z",
+      "end": "2026-11-29T22:55:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-23T12:44:45.096Z"
+  "updatedAt": "2026-11-23T14:08:10.466Z"
 }
