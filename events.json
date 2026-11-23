@@ -22,13 +22,6 @@
       "endDate": "2026-11-27"
     },
     {
-      "summary": "Yellow fever vaccine appointment for all - Guy Staight",
-      "location": null,
-      "allDay": false,
-      "start": "2026-11-23T16:00:00.000Z",
-      "end": "2026-11-23T17:00:00.000Z"
-    },
-    {
       "summary": "SimonEllisMaths <> Michele Aliboni",
       "location": null,
       "allDay": false,
@@ -106,5 +99,5 @@
       "end": "2026-11-29T22:55:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-23T16:27:53.919Z"
+  "updatedAt": "2026-11-23T17:27:43.456Z"
 }
