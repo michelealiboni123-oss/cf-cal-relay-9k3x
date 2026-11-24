@@ -1,13 +1,6 @@
 {
   "events": [
     {
-      "summary": "Exeat weekend Save and Filo",
-      "location": null,
-      "allDay": true,
-      "startDate": "2026-11-21",
-      "endDate": "2026-11-23"
-    },
-    {
       "summary": "Thanksgiving UChicago",
       "location": null,
       "allDay": true,
@@ -90,7 +83,14 @@
       "allDay": false,
       "start": "2026-11-29T13:35:00.000Z",
       "end": "2026-11-29T22:55:00.000Z"
+    },
+    {
+      "summary": "Course Withdrawal Deadline",
+      "location": null,
+      "allDay": true,
+      "startDate": "2026-11-30",
+      "endDate": "2026-11-30"
     }
   ],
-  "updatedAt": "2026-11-23T23:21:38.190Z"
+  "updatedAt": "2026-11-24T00:15:46.323Z"
 }
