@@ -15,18 +15,18 @@
       "endDate": "2026-11-25"
     },
     {
-      "summary": "SimonEllisMaths <> Michele Aliboni",
-      "location": null,
-      "allDay": false,
-      "start": "2026-11-26T19:00:00.000Z",
-      "end": "2026-11-26T20:00:00.000Z"
-    },
-    {
       "summary": "Ed Peel",
       "location": "West Barn Lodge\nFovant, Salisbury, SP3 5LL, England",
       "allDay": false,
       "start": "2026-11-26T19:00:00.000Z",
       "end": "2026-11-27T16:00:00.000Z"
+    },
+    {
+      "summary": "SimonEllisMaths <> Michele Aliboni",
+      "location": null,
+      "allDay": false,
+      "start": "2026-11-26T19:00:00.000Z",
+      "end": "2026-11-26T20:00:00.000Z"
     },
     {
       "summary": "SimonEllisMaths <> Michele Aliboni",
@@ -92,5 +92,5 @@
       "end": "2026-11-30T19:45:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-25T04:19:07.093Z"
+  "updatedAt": "2026-11-25T05:31:48.433Z"
 }
