@@ -18,13 +18,6 @@
       "summary": "SimonEllisMaths <> Michele Aliboni",
       "location": null,
       "allDay": false,
-      "start": "2026-11-26T19:00:00.000Z",
-      "end": "2026-11-26T20:00:00.000Z"
-    },
-    {
-      "summary": "SimonEllisMaths <> Michele Aliboni",
-      "location": null,
-      "allDay": false,
       "start": "2026-11-26T20:30:00.000Z",
       "end": "2026-11-26T21:30:00.000Z"
     },
@@ -106,5 +99,5 @@
       "end": "2026-12-01T18:20:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-26T18:50:03.229Z"
+  "updatedAt": "2026-11-26T19:57:07.097Z"
 }
