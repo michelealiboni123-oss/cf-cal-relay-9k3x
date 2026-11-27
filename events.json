@@ -8,13 +8,6 @@
       "endDate": "2026-11-27"
     },
     {
-      "summary": "Ed Peel",
-      "location": "West Barn Lodge\nFovant, Salisbury, SP3 5LL, England",
-      "allDay": false,
-      "start": "2026-11-26T19:00:00.000Z",
-      "end": "2026-11-27T16:00:00.000Z"
-    },
-    {
       "summary": "PIR ERM Pod Weekly Meeting",
       "location": null,
       "allDay": false,
@@ -106,5 +99,5 @@
       "end": "2026-12-03T15:20:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-27T15:08:44.973Z"
+  "updatedAt": "2026-11-27T16:16:00.619Z"
 }
