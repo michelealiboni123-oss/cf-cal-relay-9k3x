@@ -111,7 +111,14 @@
       "allDay": false,
       "start": "2026-12-03T20:30:00.000Z",
       "end": "2026-12-03T21:30:00.000Z"
+    },
+    {
+      "summary": "BFT full report due",
+      "location": null,
+      "allDay": false,
+      "start": "2026-12-03T23:00:00.000Z",
+      "end": "2026-12-03T23:59:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-27T22:27:09.016Z"
+  "updatedAt": "2026-11-27T23:23:56.910Z"
 }
