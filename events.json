@@ -8,13 +8,6 @@
       "endDate": "2026-11-27"
     },
     {
-      "summary": "PIR ERM Pod Weekly Meeting",
-      "location": null,
-      "allDay": false,
-      "start": "2026-11-27T20:00:00.000Z",
-      "end": "2026-11-27T21:00:00.000Z"
-    },
-    {
       "summary": "Exeat Save and Filo",
       "location": null,
       "allDay": true,
@@ -113,5 +106,5 @@
       "end": "2026-12-03T20:00:00.000Z"
     }
   ],
-  "updatedAt": "2026-11-27T19:28:49.138Z"
+  "updatedAt": "2026-11-27T20:27:04.290Z"
 }
